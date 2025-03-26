@@ -1,5 +1,7 @@
-# The Web3 社区区块链书籍合集介绍
+[![Dapplink](https://github.com/the-web3/.github/blob/main/profile/theweb3.jpeg)](https://github.com/the-web3)
 
+
+# The Web3 社区区块链书籍合集介绍
 
 - 第一册：[基础篇《区块链基础与基本原理》](https://x.com/0xtheweb3/status/1883830328030298551)
 - 第二册：[钱包篇：《区块链钱包应用开发实战》](https://x.com/0xtheweb3/status/1884583091366510773)
