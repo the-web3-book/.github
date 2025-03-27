@@ -1,4 +1,4 @@
-[![Dapplink](https://github.com/the-web3/.github/blob/main/profile/theweb3.jpeg)](https://github.com/the-web3)
+[![Dapplink](https://github.com/the-web3-book/the-web3-book/blob/main/banner.png)](https://github.com/the-web3)
 
 
 # The Web3 社区区块链书籍合集介绍
