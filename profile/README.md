@@ -41,4 +41,13 @@
 ## 四.特别鸣谢
 
 
+## 五.The Web3 社区官方链接
+- github: https://github.com/the-web3
+- 智能合约 github: https://github.com/the-web3-contracts
+- 公链 github: https://github.com/the-web3-chain
+- 产品：https://github.com/the-web3-product
+- 区块链系列丛书：https://github.com/the-web3-book
+- X: https://x.com/0xtheweb3
+- telegram: https://t.me/+pmoh3D4uTAFjNWM1
+- the web3 官网：https://thewebthree.xyz/
 
