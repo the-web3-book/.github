@@ -40,9 +40,9 @@
 
 ## 四.书籍主要作者简介
 
-用户名：Seek
-推特：seek_web3
-简介
+***用户名***：Seek
+***推特***：seek_web3
+***简介***
 - DappLink 创始人
 - The Web3 社区发起人
 - 前 Mantle 技术架构师, Bybit 核心开发
