@@ -5,14 +5,21 @@
 
 ## 一.书籍大纲
 
-### 1.技术书籍
+### 1.非产研书籍
+- [《转型 Web3 前您需要知道的 100 个问题》](https://github.com/the-web3-book/to-web3-100-questions)
+
+### 2.技术书籍
 - [基础篇《区块链基础与基本原理》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/blockchainbasic.md)
 - [钱包篇：《区块链钱包应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/wallet.md)
 - [链上开发篇《智能合约应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/dapp.md)
 - [公链篇:《公链底层原理与源码解析》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/chain.md)
 
-### 2.产品书籍
+### 3.产品书籍
 - [产品篇：《Web3 区块链产品经理实用指南》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/product.md)
+
+### 4.Web3 面试
+- [《Web3 面试红宝书》](https://github.com/the-web3-book/web3-interview-handbook)
+
 
 ## 二.售卖简介
 
